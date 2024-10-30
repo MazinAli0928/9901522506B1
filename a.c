@@ -1,6 +1,7 @@
 git --version
 git init
 git clone "Repo address"
+cd same name
 file creation
 ls
 git add .
